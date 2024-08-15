@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(53, 51, 51);
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+.frame {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+#titleFrame {
+    text-align: center;
+    margin: 20px 0;
+}
+
+#contentFrame {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+#updateFrame {
+    width: 20%;
+    text-align: left;
+    border-right: 1px solid white;
+    padding-right: 10px;
+}
+
+canvas {
+    width: 75%;
+    border: 1px solid white;
+    background-color: black;
+}
+
+#menu {
+    width: 100%;
+    margin-top: 20px;
+}
+
+#infoFrame {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 10px 0;
+    border-top: 1px solid white;
+    margin-top: 20px;
+}
+
+a {
+    color: white;
+}  
+
+a:hover {
+    color: red;
+} 
