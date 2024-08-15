@@ -26,7 +26,7 @@
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/SandSquare.git
+    git clone https://github.com/Klus3kk/SandSquare.git
     ```
 2. **Open the Game**:
    - Navigate to the `SandSquare` directory and open `index.html` in your web browser.
