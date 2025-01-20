@@ -43,6 +43,3 @@ If you have ideas for new features, improvements, or bug fixes, please open an i
 
 - Inspired by the classic "Falling Sand" game from the early 2000s.
 
----
-
-Enjoy creating and experimenting in the world of **SandSquare**!
