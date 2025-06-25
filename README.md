@@ -1,8 +1,9 @@
 # SandSquare
 
-**SandSquare** is a modern, browser-based sandbox simulation game inspired by the classic "Falling Sand" game. Originally popularized in the early 2000s as a Flash game, **SandSquare** brings the same addictive physics-based gameplay to the web with added features, better graphics, and more possibilities
+**SandSquare** is a modern, browser-based sandbox simulation game inspired by the classic "Falling Sand" game. Originally popularized in the early 2000s as a Flash game, **SandSquare** brings the same gameplay to the web with added features, better graphics, and more possibilities
 
 ## Features
+
 - **Interactive Gameplay**: Use your mouse to create or remove blocks particles, building intricate designs or just watching the blocks flow.
 - **Randomized Particle Movement**: Sand particles can randomly drift left or right as they fall, creating a more dynamic and natural flow.
 - **Expandable Block Types**: Future updates will include additional block types.
@@ -30,14 +31,6 @@
     ```
 2. **Open the Game**:
    - Navigate to the `SandSquare` directory and open `index.html` in your web browser.
-
-## Contributing
-
-If you have ideas for new features, improvements, or bug fixes, please open an issue or submit a pull request.
-
-## License
-
-**SandSquare** is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Acknowledgments
 
